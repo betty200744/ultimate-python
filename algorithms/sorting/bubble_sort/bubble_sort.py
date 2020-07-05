@@ -1,3 +1,5 @@
+# https://www.javatpoint.com/bubble-sort
+# 当前value与整个未排列表对比
 # Algorithm :
 # Step 1: Repeat Step 2 For i = 0 to N-1
 # Step 2: Repeat For J = i + 1 to N - I
