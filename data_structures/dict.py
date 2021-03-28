@@ -2,6 +2,7 @@
 dictionaries are a mapping of keys to values
 """
 
+
 def main():
     review = {"title": "t", "price": 1, "content": "c"}
     print(len(review))
